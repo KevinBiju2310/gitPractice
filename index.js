@@ -2,8 +2,7 @@ const fs = require('fs');
 const PDFDocument = require('pdfkit');
 
 
-const hello = 'Hello World';
-console.log(hello);
+
 
 
 // Create a new PDF document
