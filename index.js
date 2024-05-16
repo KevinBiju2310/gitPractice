@@ -1,6 +1,10 @@
 const fs = require('fs');
 const PDFDocument = require('pdfkit');
 
+
+
+
+
 // Create a new PDF document
 const doc = new PDFDocument();
 
