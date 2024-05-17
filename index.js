@@ -3,7 +3,8 @@ const PDFDocument = require('pdfkit');
 
 
 const name = 'Kevin';
-
+const secondname = 'James';
+console.log(secondname)
 
 // Create a new PDF document
 const doc = new PDFDocument();
